@@ -7,11 +7,8 @@ https://github.com/Icaroiz/workshop-javafx-jdbc
 
 Este repositório contém um projeto de um serviço web que realiza operações de CRUD (Create, Read, Update, Delete), desenvolvido com Java Spring Boot. O projeto utiliza o JavaFX como tela de desenvolvimento e o MySQL como banco de dados para persistência de dados.
 
-## Layout web
-![Web 1]()
-
 ## Modelo conceitual
-![Modelo Conceitual](https://Icaroiz.github.io/Site/imagens/readme/r4-spring-jpa.png)
+![Modelo Conceitual](https://Icaroiz.github.io/Site/imagens/readme/r5.PNG)
 
 # Tecnologias utilizadas
 ## Back end
